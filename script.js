@@ -5,7 +5,7 @@ console.log(
 )
 // 
 let hw = 'HELLOWORLD'
-hw = hw.toLowerCase(1) + hw.split(' ')
+hw = hw.toLowerCase(1)
 console.log(
     hw.charAt().toUpperCase() + hw.slice(1)
 )
